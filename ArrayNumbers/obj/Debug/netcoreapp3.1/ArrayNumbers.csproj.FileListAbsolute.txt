@@ -1,0 +1,13 @@
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\ArrayNumbers\ArrayNumbers\bin\Debug\netcoreapp3.1\ArrayNumbers.exe
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\ArrayNumbers\ArrayNumbers\bin\Debug\netcoreapp3.1\ArrayNumbers.deps.json
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\ArrayNumbers\ArrayNumbers\bin\Debug\netcoreapp3.1\ArrayNumbers.runtimeconfig.json
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\ArrayNumbers\ArrayNumbers\bin\Debug\netcoreapp3.1\ArrayNumbers.runtimeconfig.dev.json
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\ArrayNumbers\ArrayNumbers\bin\Debug\netcoreapp3.1\ArrayNumbers.dll
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\ArrayNumbers\ArrayNumbers\bin\Debug\netcoreapp3.1\ArrayNumbers.pdb
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\ArrayNumbers\ArrayNumbers\obj\Debug\netcoreapp3.1\ArrayNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\ArrayNumbers\ArrayNumbers\obj\Debug\netcoreapp3.1\ArrayNumbers.AssemblyInfoInputs.cache
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\ArrayNumbers\ArrayNumbers\obj\Debug\netcoreapp3.1\ArrayNumbers.AssemblyInfo.cs
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\ArrayNumbers\ArrayNumbers\obj\Debug\netcoreapp3.1\ArrayNumbers.dll
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\ArrayNumbers\ArrayNumbers\obj\Debug\netcoreapp3.1\ArrayNumbers.pdb
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\ArrayNumbers\ArrayNumbers\obj\Debug\netcoreapp3.1\ArrayNumbers.genruntimeconfig.cache
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\ArrayNumbers\ArrayNumbers\obj\Debug\netcoreapp3.1\ArrayNumbers.csprojAssemblyReference.cache
